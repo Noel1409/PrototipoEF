@@ -1,0 +1,6 @@
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Reporteador\Reporteador\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Reporteador\Reporteador\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Reporteador\Reporteador\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Reporteador\Reporteador\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Reporteador\Reporteador\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Reporteador\Reporteador\CapaModelo\obj\Debug\CapaModelo.pdb

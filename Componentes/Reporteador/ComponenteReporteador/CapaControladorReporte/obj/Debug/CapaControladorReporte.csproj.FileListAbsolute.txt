@@ -1,0 +1,9 @@
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Reporteador\ComponenteReporteador\CapaControladorReporte\bin\Debug\CapaControladorReporte.dll
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Reporteador\ComponenteReporteador\CapaControladorReporte\bin\Debug\CapaControladorReporte.pdb
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Reporteador\ComponenteReporteador\CapaControladorReporte\bin\Debug\CapaModeloReporte.dll
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Reporteador\ComponenteReporteador\CapaControladorReporte\bin\Debug\CapaModeloReporte.pdb
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Reporteador\ComponenteReporteador\CapaControladorReporte\obj\Debug\CapaControladorReporte.csproj.AssemblyReference.cache
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Reporteador\ComponenteReporteador\CapaControladorReporte\obj\Debug\CapaControladorReporte.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Reporteador\ComponenteReporteador\CapaControladorReporte\obj\Debug\CapaControladorReporte.csproj.CopyComplete
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Reporteador\ComponenteReporteador\CapaControladorReporte\obj\Debug\CapaControladorReporte.dll
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Reporteador\ComponenteReporteador\CapaControladorReporte\obj\Debug\CapaControladorReporte.pdb

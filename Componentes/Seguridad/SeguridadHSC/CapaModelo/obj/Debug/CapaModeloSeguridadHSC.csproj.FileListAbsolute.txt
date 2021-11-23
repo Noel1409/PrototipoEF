@@ -1,0 +1,12 @@
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaModelo\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaModelo\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\wilbe\OneDrive\Escritorio\Diagramas\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaModelo\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaModelo\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.csproj.AssemblyReference.cache
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\kikhe\OneDrive\Escritorio\xd\ProyectoHSC-Local\ProyectoHSC22021\Componentes\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.pdb

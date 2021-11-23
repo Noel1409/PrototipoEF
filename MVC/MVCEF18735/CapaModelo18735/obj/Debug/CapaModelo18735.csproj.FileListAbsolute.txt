@@ -1,0 +1,6 @@
+C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\MVC\MVCEF18735\CapaModelo18735\bin\Debug\CapaModelo18735.dll
+C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\MVC\MVCEF18735\CapaModelo18735\bin\Debug\CapaModelo18735.pdb
+C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\MVC\MVCEF18735\CapaModelo18735\obj\Debug\CapaModelo18735.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\MVC\MVCEF18735\CapaModelo18735\obj\Debug\CapaModelo18735.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\MVC\MVCEF18735\CapaModelo18735\obj\Debug\CapaModelo18735.dll
+C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\MVC\MVCEF18735\CapaModelo18735\obj\Debug\CapaModelo18735.pdb
