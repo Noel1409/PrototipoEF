@@ -41,3 +41,15 @@ C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\Ejecutable\Ejecutable\Ejecu
 C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\Ejecutable\Ejecutable\Ejecutable\obj\Debug\Ejecutable.csproj.CopyComplete
 C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\Ejecutable\Ejecutable\Ejecutable\obj\Debug\Ejecutable.exe
 C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\Ejecutable\Ejecutable\Ejecutable\obj\Debug\Ejecutable.pdb
+C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\Ejecutable\Ejecutable\Ejecutable\bin\Debug\DLLnav.dll
+C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\Ejecutable\Ejecutable\Ejecutable\bin\Debug\CapaControladorNav.dll
+C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\Ejecutable\Ejecutable\Ejecutable\bin\Debug\CapaVista.dll
+C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\Ejecutable\Ejecutable\Ejecutable\bin\Debug\CapaModeloNav.dll
+C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\Ejecutable\Ejecutable\Ejecutable\bin\Debug\CapaControlador.dll
+C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\Ejecutable\Ejecutable\Ejecutable\bin\Debug\CapaModelo.dll
+C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\Ejecutable\Ejecutable\Ejecutable\bin\Debug\DLLnav.pdb
+C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\Ejecutable\Ejecutable\Ejecutable\bin\Debug\CapaControladorNav.pdb
+C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\Ejecutable\Ejecutable\Ejecutable\bin\Debug\CapaVista.pdb
+C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\Ejecutable\Ejecutable\Ejecutable\bin\Debug\CapaModeloNav.pdb
+C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\Ejecutable\Ejecutable\Ejecutable\bin\Debug\CapaControlador.pdb
+C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\Ejecutable\Ejecutable\Ejecutable\bin\Debug\CapaModelo.pdb

@@ -32,19 +32,19 @@ namespace CapaVista18735
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.abrirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.salirToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.cerrarSesiónToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.catálogosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.procesosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.informesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.herramientasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.ayudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.movimientoDeProductoEntreBódegasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.reporteDeMovimientoDeProductoEntreBódegasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.herramientasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cRUDProductosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cRUDBódegasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.ayudaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.movimientoDeProductoEntreBódegasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.trasladoDeProductoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.movimientoDeProductosEntreBódegasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.txtUsuario = new System.Windows.Forms.TextBox();
-            this.cerrarSesiónToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -76,9 +76,16 @@ namespace CapaVista18735
             // salirToolStripMenuItem
             // 
             this.salirToolStripMenuItem.Name = "salirToolStripMenuItem";
-            this.salirToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.salirToolStripMenuItem.Size = new System.Drawing.Size(143, 22);
             this.salirToolStripMenuItem.Text = "Salir";
             this.salirToolStripMenuItem.Click += new System.EventHandler(this.salirToolStripMenuItem_Click);
+            // 
+            // cerrarSesiónToolStripMenuItem
+            // 
+            this.cerrarSesiónToolStripMenuItem.Name = "cerrarSesiónToolStripMenuItem";
+            this.cerrarSesiónToolStripMenuItem.Size = new System.Drawing.Size(143, 22);
+            this.cerrarSesiónToolStripMenuItem.Text = "Cerrar Sesión";
+            this.cerrarSesiónToolStripMenuItem.Click += new System.EventHandler(this.cerrarSesiónToolStripMenuItem_Click);
             // 
             // catálogosToolStripMenuItem
             // 
@@ -100,6 +107,13 @@ namespace CapaVista18735
             this.informesToolStripMenuItem.Size = new System.Drawing.Size(66, 20);
             this.informesToolStripMenuItem.Text = "Informes";
             // 
+            // reporteDeMovimientoDeProductoEntreBódegasToolStripMenuItem
+            // 
+            this.reporteDeMovimientoDeProductoEntreBódegasToolStripMenuItem.Name = "reporteDeMovimientoDeProductoEntreBódegasToolStripMenuItem";
+            this.reporteDeMovimientoDeProductoEntreBódegasToolStripMenuItem.Size = new System.Drawing.Size(345, 22);
+            this.reporteDeMovimientoDeProductoEntreBódegasToolStripMenuItem.Text = "Reporte de Movimiento de producto entre bódegas";
+            this.reporteDeMovimientoDeProductoEntreBódegasToolStripMenuItem.Click += new System.EventHandler(this.reporteDeMovimientoDeProductoEntreBódegasToolStripMenuItem_Click);
+            // 
             // herramientasToolStripMenuItem
             // 
             this.herramientasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
@@ -108,6 +122,20 @@ namespace CapaVista18735
             this.herramientasToolStripMenuItem.Name = "herramientasToolStripMenuItem";
             this.herramientasToolStripMenuItem.Size = new System.Drawing.Size(90, 20);
             this.herramientasToolStripMenuItem.Text = "Herramientas";
+            // 
+            // cRUDProductosToolStripMenuItem
+            // 
+            this.cRUDProductosToolStripMenuItem.Name = "cRUDProductosToolStripMenuItem";
+            this.cRUDProductosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.cRUDProductosToolStripMenuItem.Text = "CRUD Productos";
+            this.cRUDProductosToolStripMenuItem.Click += new System.EventHandler(this.cRUDProductosToolStripMenuItem_Click);
+            // 
+            // cRUDBódegasToolStripMenuItem
+            // 
+            this.cRUDBódegasToolStripMenuItem.Name = "cRUDBódegasToolStripMenuItem";
+            this.cRUDBódegasToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.cRUDBódegasToolStripMenuItem.Text = "CRUD Bódegas";
+            this.cRUDBódegasToolStripMenuItem.Click += new System.EventHandler(this.cRUDBódegasToolStripMenuItem_Click);
             // 
             // ayudaToolStripMenuItem
             // 
@@ -123,25 +151,6 @@ namespace CapaVista18735
             this.movimientoDeProductoEntreBódegasToolStripMenuItem.Size = new System.Drawing.Size(285, 22);
             this.movimientoDeProductoEntreBódegasToolStripMenuItem.Text = "Movimiento de producto entre bódegas";
             this.movimientoDeProductoEntreBódegasToolStripMenuItem.Click += new System.EventHandler(this.movimientoDeProductoEntreBódegasToolStripMenuItem_Click);
-            // 
-            // reporteDeMovimientoDeProductoEntreBódegasToolStripMenuItem
-            // 
-            this.reporteDeMovimientoDeProductoEntreBódegasToolStripMenuItem.Name = "reporteDeMovimientoDeProductoEntreBódegasToolStripMenuItem";
-            this.reporteDeMovimientoDeProductoEntreBódegasToolStripMenuItem.Size = new System.Drawing.Size(345, 22);
-            this.reporteDeMovimientoDeProductoEntreBódegasToolStripMenuItem.Text = "Reporte de Movimiento de producto entre bódegas";
-            this.reporteDeMovimientoDeProductoEntreBódegasToolStripMenuItem.Click += new System.EventHandler(this.reporteDeMovimientoDeProductoEntreBódegasToolStripMenuItem_Click);
-            // 
-            // cRUDProductosToolStripMenuItem
-            // 
-            this.cRUDProductosToolStripMenuItem.Name = "cRUDProductosToolStripMenuItem";
-            this.cRUDProductosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.cRUDProductosToolStripMenuItem.Text = "CRUD Productos";
-            // 
-            // cRUDBódegasToolStripMenuItem
-            // 
-            this.cRUDBódegasToolStripMenuItem.Name = "cRUDBódegasToolStripMenuItem";
-            this.cRUDBódegasToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.cRUDBódegasToolStripMenuItem.Text = "CRUD Bódegas";
             // 
             // trasladoDeProductoToolStripMenuItem
             // 
@@ -164,13 +173,6 @@ namespace CapaVista18735
             this.txtUsuario.ReadOnly = true;
             this.txtUsuario.Size = new System.Drawing.Size(100, 20);
             this.txtUsuario.TabIndex = 2;
-            // 
-            // cerrarSesiónToolStripMenuItem
-            // 
-            this.cerrarSesiónToolStripMenuItem.Name = "cerrarSesiónToolStripMenuItem";
-            this.cerrarSesiónToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.cerrarSesiónToolStripMenuItem.Text = "Cerrar Sesión";
-            this.cerrarSesiónToolStripMenuItem.Click += new System.EventHandler(this.cerrarSesiónToolStripMenuItem_Click);
             // 
             // mdiJaimeLopez
             // 

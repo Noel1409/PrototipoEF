@@ -63,5 +63,19 @@ namespace CapaVista18735
                 this.Close(); 
             }
         }
+
+        private void cRUDBódegasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            mantenimientoBodega frmB = new mantenimientoBodega(txtUsuario.Text);
+            frmB.MdiParent = this;
+            frmB.Show();
+        }
+
+        private void cRUDProductosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            mantenimientoProducto frmP = new mantenimientoProducto(txtUsuario.Text);
+            frmP.MdiParent = this;
+            frmP.Show();
+        }
     }
 }

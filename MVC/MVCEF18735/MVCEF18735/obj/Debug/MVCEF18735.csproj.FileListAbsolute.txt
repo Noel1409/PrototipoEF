@@ -55,3 +55,5 @@ C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\MVC\MVCEF18735\MVCEF18735\o
 C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\MVC\MVCEF18735\MVCEF18735\obj\Debug\CapaVista18735.mdiJaimeLopez.resources
 C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\MVC\MVCEF18735\MVCEF18735\obj\Debug\MVCEF18735.csproj.GenerateResource.cache
 C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\MVC\MVCEF18735\MVCEF18735\obj\Debug\MVCEF18735.csproj.CopyComplete
+C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\MVC\MVCEF18735\MVCEF18735\obj\Debug\CapaVista18735.mantenimientoBodega.resources
+C:\Users\Usuario\Desktop\EFRealAn2\proto\PrototipoEF\MVC\MVCEF18735\MVCEF18735\obj\Debug\CapaVista18735.mantenimientoProducto.resources
